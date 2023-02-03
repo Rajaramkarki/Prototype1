@@ -1,5 +1,5 @@
 # Prototype1
-This is the first project that is included in Learn with Code from LearnUnity. 
+This is the first project that is included in Create with Code from LearnUnity. 
 I wanted to learn Git and GitHub side by side with Unity as I build my training projects which will all be uploaded here.
 
 A simple game where you ride a vehicle to dodge some obstacles along the way, or maybe run into them if that what you are more into it. Done with the help of Learn with Code from UnityLearn.
